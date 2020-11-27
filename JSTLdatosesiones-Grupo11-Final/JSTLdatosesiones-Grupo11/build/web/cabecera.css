@@ -1,0 +1,14 @@
+.cabecera {
+    background-color: cadetblue;
+    border-radius: 5px;
+}
+.cabecera a{
+    color:black;
+    font: outline;
+    text-decoration: none;
+}
+.cabecera a:hover {
+	background-color: rgba(95, 238, 114, 0.699);
+    border-radius: 1px;
+    color:white;
+}

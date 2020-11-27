@@ -1,0 +1,39 @@
+h1,h2,form,table{
+	text-align: center;
+}
+
+h2{
+	background-color: #6f4f28;
+	margin-left: 100px;
+	margin-right: 100px;
+	border-radius: 5px;
+}
+label{
+	font-weight: bold;
+	font-size: 20px;
+}
+table{
+	font-size: 20px;
+}
+th{
+	background-color: #396684;
+}
+form{
+	background-color: #639595;
+	padding: 35px 70px 50px 90px;
+	border-radius: 5px;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+input[type="text"] {
+      width: 200px;
+      height: 25px;
+}
+input[type="submit"] {
+       width: 100px;
+       height: 30px;
+       font-weight: bold;
+       font-size: 15px;
+       background-color: #B0C4DE;
+       border-radius: 5px;
+}
